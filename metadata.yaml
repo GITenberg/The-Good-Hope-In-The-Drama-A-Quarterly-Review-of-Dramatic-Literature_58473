@@ -1,5 +1,5 @@
 _repo: The-Good-Hope-In-The-Drama-A-Quarterly-Review-of-Dramatic-Literature_58473
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Dukes, Ashley
@@ -11,6 +11,9 @@ contributor:
     agent_name: Higgins, Harriet Gampert
     gutenberg_agent_id: '49977'
     url: http://www.gutenberg.org/2009/agents/49977
+covers:
+- cover_type: archival
+  image_path: 58473-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Heijermans, Herman
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9057
     wikipedia: http://en.wikipedia.org/wiki/Herman_Heijermans
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58473#The-Good-Hope-In-The-Drama-A-Quarterly-Review-of-Dramatic-Literature
 gutenberg_issued: '2018-12-14'
 gutenberg_type: Text
 identifiers:
